@@ -1,7 +1,7 @@
 
 
-Economics
-=========
+Economical Systems and Capital Services
+=======================================
 Thoughts about Economical Systems and their Credit Systems, Economic Fairness and Modern Infrastructure
 
 
