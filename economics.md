@@ -1,14 +1,14 @@
 
 
-Economical Systems and Capital Services
-=======================================
-Thoughts about Economical Systems and their Credit Systems, Economic Fairness and Modern Infrastructure
+Economics
+=========
+Thoughts about Economical Systems and their Credit Systems, Economic Fairness and Modern Infrastructure. Provides ideas how to *improve the economical systems* to make them fairer and more resilient.
 
 
-### Remark
-* **in work** 
-* often **brainstorming** and sometimes **not** thoroughly thought through and **not** well researched/checked
-* provides ideas how to take the current covid situation as an opportunity to **improve the economical systems** 
+
+> Often *brainstorming* and sometimes *not* thoroughly thought through and *not* well researched/checked
+
+
 
 ---
 
@@ -46,50 +46,61 @@ Thoughts about Economical Systems and their Credit Systems, Economic Fairness an
 ### Baseline Principles
 Principles assumed here.
 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
-2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or equal in the way of life.
-3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
+2. Building on 1. everyone should have the economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). 
+    > Fair in this sense does not mean equal in wealth or equal in the way of life.
+3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups often yields new unfairness and then spinning the wheel one ends at the individual level. So one can start right away with fairness for everyone. 
+    > The view here is, with connectedness we have today, improvements are best designed to work for all. Although it is acknowledged, that the economic opportunities and benefits vary widely in todays world.
 
-    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well even though for most restaurants the earnings from take-away can be as low as the tip of a normal day, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support.
-
-    > In my view, with connectedness we have today, I think improvements are best designed to work for all. Although I acknowledge, that the economic opportunities and benefits vary widely in todays world.
+<!--
+    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well even though for most restaurants the earnings from take-away can be as low as the tip of a normal day. On the other while many construction businesses boom, a construction business specialized on large scale events may need to reorientate and thus need support.
+-->
+    
+  
 
     
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
-## Summary
-[**in work**]
-From time to time parts of the economy are shaken, local or worldwide, in specific branches or uniform. Covid-19 does so in specific branches. Upon economic quakes governments usually support both companies and individuals. An ideal economical system would adapt itself to a changed environment. The goal here is to improve the financial system to make the economy more resilient, adaptable and fair. 
 
-1. First classical support measures are listed and pro and contras discussed. 
+
+## Summary
+From time to time parts of the economy are shaken, local or worldwide, in specific branches or uniform. Covid-19 does so in certain branches. Upon economic quakes governments usually support both companies and individuals. An ideal economical system would adapt itself to a changed environment. The goal here is, to propose improve the financial system to make the economy more resilient, adaptable and fair. 
+
+1. First classical economic support measures are discussed with pro and contras:
    * targeted support is complicated and can be unfair since some fall through the nets
    * current methods to increase liquidity (e.g. lowering interest rates) poor money on banks and big companies (so much many don't know what to do with it) but the money doesn't flow well to individuals. Reasons are:
      * that handing out credits is work and so handing out small credits is not lucrative. 
-     * credits are often secured and those who need them most can often not provide any security.
+     * credits often need to be secured and those who need them most can often not provide any security.
  
-2. A universal credit framework is proposed with the goals:
-     * Enable everybody to design the economic life
-     * and thereby create a fairer economy
-     * Improves the resilience and adaptability of the economical system since everybody has the capability to reorganize and reorientate
-     * Many existing social support systems (e.g. unemployment support, student loans) can be integrated to/replace by a universal capital/credit system. 
+2. Provide universal credit framework which enables everybody to design the economic life. In a way such that:
+   * The resilience and adaptability of the economy is improved since everybody has the capability to reorganize and reorientate.
+   * Many existing social support systems (e.g. unemployment support, student loans) can be integrated to/replace by a universal capital/credit system. 
   
-3. Ideas to implement such a system are sketched:
-   * Lower interest rates on money handed to financial institutions that is spend on small credits
+3. Proposals to implement such a universal credit system:
+   * Lower interest rates on money handed to financial institutions that is spend on small credits.
    * Flexible payback scheme similar or based on tax systems. The idea is that those who are fortune payback much more than those who are less fortunate. The credits expire after some decades.
-   * Financial services as basic infrastructure such as education or streets
+   * Universal accessible financial services as a basic infrastructure such as education or streets. // In most implementations of capitalism credit services are only easily accessible to those with money.
 
-4. The credit system is accompanied by a modern infrastructure framework. Till the 19th century, a save workplace and good transportation was often enough when combined with skill and work. Now in the 21th century more infrastructure is needed to provide everybody with fundamentals to succeed:
-   * Education options (from child care to IT courses for seniors)
-   * Transportation and Telecommunication
-   * Health care
-   * Accessible Production Infrastructure (as of 2020 only nfew goods can be homemade competitively)
+4. The credit system is accompanied by a modern infrastructure framework. Till the 19th century, a save workplace and transportation options were often enough when combined with skill (specialist and social). In the early 21th century, more is needed to provide to succeed:
+     * Transportation and Telecommunication
+     * Accessible Production Infrastructure (as of 2020 only some goods can be homemade competitively - software and  notable exception though usually a good team is needed)
+     * Social and business networks (networks used to be mainly based on geographical closeness) 
+
+    and to be healthy and skilful, which are usually necessary for competitive working:
+     * Health care and healthy food
+     * Education options and facilities
+
+
+
+
 
 ## Thoughts about Economical Systems
-[in work]
 Most current economic systems are not optimal regarding the [baseline principles](#baseline-principles):
-*  *only few can/have to chance to freely choose*: top down management and adaption 
+* *Only few have the chance to freely choose*: top down management and adaption.
 *  *sometimes unfair*: unequal opportunities in the sense not everybody has equal chances to choose how to participate and design.
 
-For the time being only capitalism is discussed.
+> For the time being only capitalism is discussed.
+
+
 
 ### Capitalism
 
@@ -106,6 +117,8 @@ In theory capitalism allows everyone to have an own realm and so design the econ
 In most implementations of capitalism liquidity is provided in two steps:
 * A National Bank controls the amount of money and lends it to financial service providers (usually banks) with some interest rates
 * The banks provide that money accompanied with financial services (e.g. advice) to the public. The fees for the services and together with the risk are earned back through interest rates.
+
+
 
 
 
@@ -201,6 +214,10 @@ Capital services usually are not available for private persons. However I consid
 * Unlike financial support, capital services can be provided near universally, since only those in need will take them.
 
 
+
+
+
+
 ## Capital Services for Everybody
 
 ### Reasons for Universal Capital Services
@@ -219,22 +236,29 @@ The work is per credit and not per amount of credit. Therefore handing out small
 
 ### Goals
 #### Design Goals
-* Give everybody opportunities to choose the preferred (economic) life-style:
-  * going for further educations for 
-    * an academic pathway
-    * acquiring skills for a new career/jobs/changing branches
-  * going straight to work and getting shares of business either by owning/co-owning or buying shares of a friends business, the favorite local business or any other business. 
-* The goal of Universal Capital Services is not equality in every aspect e.g. not equal wealth and thus not redistribution of wealth.
+Give everybody opportunities to choose the preferred (economic) life-style:
+* going for further educations for 
+  * an academic pathway
+  * acquiring skills for a new career/jobs/changing branches
+* going straight to work and getting shares of business either by owning/co-owning or buying shares of a friends business, the favorite local business or any other business. 
+
+> The goal of Universal Capital Services is not equality in every aspect e.g. not equal wealth and thus not redistribution of wealth.
+
 #### Implementation Goals
-* Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
+Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
 
 
 ### Experiences with increased Availability of Capital Services 
-* Community Reinvestment Act (CRA) in the US: federal regulator rate banks how well they invest into different neighborhoods especially if they invest into low- or mid-income communities. The rating is considered for approval of bank mergers, acquisitions and such. (W Kenton, updated 18.8.2020, investopedia.com)
-  * "Using recent empirical evidence, I demonstrate that over the last decade CRA has enhanced access to credit for low-income, moderate-income, and minority borrowers at relatively low cost, consistent with the theory that CRA is helping to overcome market failures." [Barr](#barr)
-  * "CRA loans have a statistically significant positive effect on small business growth" [Rupasingha](#Rupasingha)
-* Micro-credits
-  In Bangladesh and countries in South East Asia positive experiences have been gathered with micro-credits [in work]. 
+#### Community Reinvestment Act (CRA) in the US
+Federal regulator rate banks how well they invest into different neighborhoods especially if they invest into low- or mid-income communities. The rating is considered for approval of bank mergers, acquisitions and such. (W Kenton, updated 18.8.2020, investopedia.com)
+* "Using recent empirical evidence, I demonstrate that over the last decade CRA has enhanced access to credit for low-income, moderate-income, and minority borrowers at relatively low cost, consistent with the theory that CRA is helping to overcome market failures." [Barr](#barr)
+* "CRA loans have a statistically significant positive effect on small business growth" [Rupasingha](#Rupasingha)
+
+
+#### Micro-credits
+In Bangladesh and countries in South East Asia positive experiences have been gathered with micro-credits [in work]. 
+
+
 
 ### Proposals for Implementation 
 * lower interest rates by the national bank on money handed out as micro & small credits (the rates likely need to be a couple percentages lower) => more attractive for banks to hand out small credits
@@ -245,25 +269,32 @@ The work is per credit and not per amount of credit. Therefore handing out small
 
 ### Comparison to Universal Basic Income
 The proposed Universal Capital Services are in some situations very similar to a Universal Basic Income, however they are much more flexible and participation is voluntary including paying the costs i.e. only those participating will pay the additional cost respect to existing social support measures. The exact difference depend on the concrete implementation.
-#### similar 
-* when accessing the credits over a continuous time period **and** not high future capital (which would yield pay-back e.g. through taxes in the credit scheme)
-#### different
-* access can be all in one go e.g. for investments in a (new) business
-* those already having enough capital don't need to participate neither in taking nor in paying additional tax
-* those taking capital and making a fortune with it will be subject to an increased payback (depending on implementation this can mean higher tax bills)
+
+* similar 
+  * when accessing the credits over a continuous time period **and** not high future capital (which would yield pay-back e.g. through taxes in the credit scheme)
+
+* different
+  * access can be all in one go e.g. for investments in a (new) business
+  * those already having enough capital don't need to participate neither in taking nor in paying additional tax
+  * those taking capital and making a fortune with it will be subject to an increased payback (depending on implementation this can mean higher tax bills)
+
 
 ### Fairness of Universal Capital Services
 [in work]
 More fairness for choosing job/work options. 
 
+
 ## Modern Infrastructure
 [in work]
+
 
 ## Economic System for Liberalism
 [in work]
 
+
 ## Summarized References
 [in work]
+
 
 ## References
 [in work]
@@ -281,7 +312,7 @@ More fairness for choosing job/work options.
 
 ## Appendix
 
-### Thoughts on Aspects of Economic Fairness
+### Thoughts about Economic Fairness
 Related but subjective and slightly off topic thought on fairness and how to achieve and analyze it.
 
 > This section is highly subjective and influenced by personal experiences/impressions respectively not experiences/impressions. These depend on many factors, one is the region of living.
@@ -301,4 +332,4 @@ In many parts of todays world:
   
   > Educating is as challenging and instructive as working in a large company, one learns to manage, to teach, setting priorities etc. So All benefit from time spent on education. As any branch switch, switching from education to another branch often needs a learning and adaption phase. For many professions solid foundations and training are needed which can be/have been acquired through a higher education. Additionally good child education yields skilled future workers from whom the entire society benefits. However in many economies time spent on education may yield lower rent incomes despite the fact the rent incomes are enabled by the contemporary working generation, of which those children raised some decades ago are part.
 
-  > Teaching (across all age groups) I consider as very instructive and it shapes and sharpens thinking.
+  > Teaching (across all age groups and from elementary to seniors) I consider as very instructive and it shaped/s my thinking.
