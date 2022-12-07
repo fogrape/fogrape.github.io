@@ -9,8 +9,8 @@
 * [Introduction](#introduction)
   * [Recommended Readings](#recommended-readings)
   * [Terminology](#terminology)
+  * [Who designs and judges Universal Rules](#who-designs-and-judges-universal-rules)
   * [Refs Introduction](#refs-introduction)
-* [Who designs and judges Universal Rules](#who-designs-and-judges-universal-rules)
 * [Law and Covenants for States](#law-and-covenants-for-states)
   * [UN Charter](#un-charter)
   * [Vienna Convention on the Law of Treaties](#vienna-convention-on-the-law-of-treaties)
@@ -25,7 +25,8 @@
 
 ## Updates 
 
-7.12. Introduction clarified.
+4.11. **in early work** and mainly early online for considerations on [Self Determination](#considerations-on-self-determination) which have been moved here from the [Ru_ukr_conflict page](../conflicts/ru_ukr_conflict.md)).
+
 
 
 
@@ -188,5 +189,6 @@ Reasons are:
  * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
     > In Europe, Switzerland managed to stay out of both world wars. While neutrality was a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
 * *Peace.*
+
 
 
