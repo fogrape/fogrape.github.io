@@ -42,11 +42,12 @@ A GUIDE TO THE BASICS OF INTERNATIONAL LAW
 <https://legal.un.org/avl/pdf/ls/Greenwood_outline.pdf>
 
 ##### Swiss Government
-ABC of International Law
+ABC of International Law, <https://www.eda.admin.ch/content/dam/eda/en/documents/publications/Voelkerrecht/ABC-des-Voelkerrechts_en.pdf>
+
+> The ABC of International Law is a simple but sometimes a little inaccurate intro.
 
 ##### Greenwood
-Sources of International Law: An Introduction, Professor Christopher Greenwood
-
+Greenwood, Christopher. "Sources of international law: an introduction." United Nations Treaty Collection (2008). <http://legal.un.org/avl/pdf/ls/greenwood_outline.pdf>
 
 
 ### Terminology
@@ -188,6 +189,5 @@ Reasons are:
  * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
     > In Europe, Switzerland managed to stay out of both world wars. While neutrality was a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
 * *Peace.*
-
 
 
