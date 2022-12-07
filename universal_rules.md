@@ -25,8 +25,7 @@
 
 ## Updates 
 
-4.11. **in early work** and mainly early online for considerations on [Self Determination](#considerations-on-self-determination) which have been moved here from the [Ru_ukr_conflict page](../conflicts/ru_ukr_conflict.md)).
-
+7.12. Introduction clarified.
 
 
 
